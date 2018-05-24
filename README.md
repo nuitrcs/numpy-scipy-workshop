@@ -1,4 +1,6 @@
-# NumPy
+# NumPy and Scipy
+
+[Research Computing Services](http://www.it.northwestern.edu/research/) workshop materials for NumPy and Scipy (Scipy part in the works).
 
 ## Downloading Files
 
@@ -18,12 +20,14 @@ To download exercise files, right-click on the links below, and choose Save Link
 
 On a Mac, to open the files in Jupyter Notebook, start Jupyter Notebook from the folder where you saved the files.  On Windows, navigate to the directory within Jupyter Notebook.
 
-[Exercises WITHOUT Answers](https://github.com/nuitrcs/numpy-scipy-workshop/numpy_exercises.ipynb)
+[Exercises WITHOUT Answers](https://github.com/nuitrcs/numpy-scipy-workshop/blob/master/numpy_exercises.ipynb)
 
-[Exercises WITH Answers](https://github.com/nuitrcs/numpy-scipy-workshop/numpy_exercises_with_answers.ipynb)
+[Exercises WITH Answers](https://github.com/nuitrcs/numpy-scipy-workshop/blob/master/numpy_exercises_with_answers.ipynb)
 
 
 ## Resources and More Practice
+
+See [Resources](https://github.com/nuitrcs/pythonworkshops/blob/master/resources.md) for a listing of general Python resources, tutorials, and reference materials.  Links below relate specifically to material covered in this workshop.
 
 [NumPy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf): quick reference for common commands and operations
 
