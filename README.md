@@ -12,17 +12,13 @@ You can download all of the files by clicking the green button above and choosin
 
 **If you download files from the links above, you have to click through to the RAW version of the notebook and download that.  If you download directly from the links above, the files won't open because they are web pages, not the raw files.**
 
-To download exercise/workshop files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  Make sure to choose All file types as the content type (or .ipynb if available), and remove any .txt or similar extensions from the file when you save it.  The files should be *.ipynb files, with no additional file type extensions.
-
 ### Downloading Exercises
 
-To download exercise files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  Make sure to choose All file types as the content type, or remove any .txt or similar extensions from the file when you save it.  The files should be *.ipynb files, with no additional file type extensions.
+To download exercise files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  Make sure to choose All file types as the content type (or .ipynb if available), and remove any .txt or similar extensions from the file when you save it.  The files should be *.ipynb files, with no additional file type extensions.
 
-On a Mac, to open the files in Jupyter Notebook, start Jupyter Notebook from the folder where you saved the files.  On Windows, navigate to the directory within Jupyter Notebook.
+[Exercises WITHOUT Answers](https://nuitrcs.github.io/numpy-scipy-workshop/numpy_exercises.ipynb)
 
-[Exercises WITHOUT Answers](https://github.com/nuitrcs/numpy-scipy-workshop/blob/master/numpy_exercises.ipynb)
-
-[Exercises WITH Answers](https://github.com/nuitrcs/numpy-scipy-workshop/blob/master/numpy_exercises_with_answers.ipynb)
+[Exercises WITH Answers](https://nuitrcs.github.io/numpy-scipy-workshop/numpy_exercises_with_answers.ipynb)
 
 
 ## Resources and More Practice
