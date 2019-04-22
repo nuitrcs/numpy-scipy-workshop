@@ -25,9 +25,7 @@ To download exercise files, right-click on the links below, and choose Save Link
 
 See [Resources](https://github.com/nuitrcs/pythonworkshops/blob/master/resources.md) for a listing of general Python resources, tutorials, and reference materials.  Links below relate specifically to material covered in this workshop.
 
-[NumPy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf): quick reference for common commands and operations
-
-[SciPy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf): linear algebra operations
+[NumPy Cheat Sheet](https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf): quick reference for common commands and operations
 
 [100 NumPy Exercises](https://github.com/rougier/numpy-100): 100 short exercises in both Markdown and Jupyter notebook versions.  Start with just the short questions, move to the version with hints added when needed, and finally check the solutions.
 
